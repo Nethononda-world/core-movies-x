@@ -47,4 +47,7 @@ This movie app is a **frontend application** where users can discover, explore, 
 This project is an excellent way for beginners to learn **React, Tailwind CSS, and API integration** while building a fun, interactive movie browsing app.
 
 
-[Click here to view the app]([https://your-hosted-link.com](https://x-movie-app-net.netlify.app/))
+## 🚀 Live Demo
+
+[View the live app here](https://x-movie-app-net.netlify.app/)
+
