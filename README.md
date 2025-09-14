@@ -29,9 +29,7 @@ This movie app is a **frontend application** where users can discover, explore, 
 - Manage app state for watchlists, favorites, or search filters.  
 - Learn React concepts like `useState` and `useEffect`.
 
-### Routing & Navigation
-- Navigate between pages (e.g., Home → Movie Details → Search).  
-- Use React Router for client-side routing.
+
 
 ### Asynchronous Programming
 - Work with `async/await` or Promises to fetch API data.  
